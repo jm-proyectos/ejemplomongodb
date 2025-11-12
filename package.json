@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "script": "node api/index.js",
+    "script": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
